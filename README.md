@@ -13,7 +13,7 @@ The batch file (win_batch_ani.bat) calculates ANI values between genomes for two
 - Pascal Schlaepfer
 
 ## Affiliation:
-Laboratory Medicine USB, 4031 Basel, SWITZERLAND
+Laboratory Medicine, University Hospital Basel, 4031 Basel, SWITZERLAND
 
 ## Dependencies:
 - usearch11.0.667_win32.exe (http://www.drive5.com/usearch/download.html, Version: usearch11.0.667_win32.exe.gz)
