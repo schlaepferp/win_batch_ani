@@ -27,7 +27,8 @@ Laboratory Medicine USB, 4031 Basel, SWITZERLAND
 ## Mandatory input: 
 - A folder containing at least two fasta files, each with one genome.
 
-## OUTPUT (Files generated in search folder):
+## Output:
+(Files generated in search folder)
 - status.txt: Text file that shows whether the calculation has already been completed. It is possible that the program is aborted. In this case, simply re-execute this.bat file. The script will then continue where it left off.
 - results.txt: Text file containing all calculations of ANI values. This raw data is then converted into a .tsv file.
 - result_for_excel.tsv: A TAB separated file containing ANI values, allowing for easy import into EXCEL.
