@@ -12,7 +12,7 @@ REM - Dylan Winterflood
 REM - Pascal Schlaepfer
 REM
 REM AFFILIATION:
-REM Laboratory Medicine USB, 4031 Basel, SWITZERLAND
+REM Laboratory Medicine, University Hospital Basel, 4031 Basel, SWITZERLAND
 REM
 REM DATE: 24.08.2023
 REM ###############################################################################################
