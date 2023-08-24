@@ -8,8 +8,10 @@ REM
 REM VERSION: 1.0
 REM
 REM AUTHORS:
-REM - Dylan Winterflood together with ChatGPT
+REM - Dylan Winterflood
 REM - Pascal Schlaepfer
+REM
+REM AFFILIATION:
 REM Laboratory Medicine USB, 4031 Basel, SWITZERLAND
 REM
 REM DATE: 24.08.2023
