@@ -7,9 +7,12 @@ The batch file (win_batch_ani.bat) calculates ANI values between genomes for two
 
 ## Date:
 24.08.2023
+
 ## Authors:
-- Dylan Winterflood together with ChatGPT
+- Dylan Winterflood
 - Pascal Schlaepfer
+
+## Affiliation:
 Laboratory Medicine USB, 4031 Basel, SWITZERLAND
 
 ## Dependencies:
